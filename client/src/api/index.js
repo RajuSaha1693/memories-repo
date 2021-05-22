@@ -1,7 +1,8 @@
 import axios from 'axios'
 
 //const API=axios.create({baseURL:'http://localhost:5000'})
-const API=axios.create({baseURL:'https://memories-reload.herokuapp.com'})
+const API=axios.create({baseURL:'https://rajusaha1693-memories-server.zeet.app'})
+//const API=axios.create({baseURL:'https://memories-reload.herokuapp.com'})
 
 //const url="https://memories-raju.herokuapp.com/posts";
 //const url="http://localhost:5000/posts";
